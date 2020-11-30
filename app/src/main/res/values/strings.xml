@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Desafio Multi Intents</string>
+    <string name="seccion_cargar_imagenes">Seccion cargar Imagenes</string>
+    <string name="logo_latam">Logo Latam</string>
+    <string name="capturar_imagen">Capturar Imagen</string>
+    <string name="cargar_imagen">Cargar Imagen</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
